@@ -5,5 +5,7 @@ Audio Multi Label Classification:- https://www.kaggle.com/c/freesound-audio-tagg
 
 Audio Emotion Detection :- https://www.kaggle.com/uwrfkaggler/ravdess-emotional-speech-audio
   > CNN-2D :-First Attempt
+  
   > CNN-1D+LSTM Model :- Second Attempt
+  
   > CNN-1D +LSTM Model :- Third Attempt  (6 fold CV) Since Data was limited                
