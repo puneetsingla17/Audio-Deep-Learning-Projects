@@ -8,4 +8,4 @@ Audio Emotion Detection :- https://www.kaggle.com/uwrfkaggler/ravdess-emotional-
   
   > CNN-1D+LSTM Model :- Second Attempt
   
-  > CNN-1D +LSTM Model :- Third Attempt  (6 fold CV) Since Data was limited                
+  > CNN-1D +LSTM Model :- Third Attempt  (6 fold CV) Followed by thresholding, Since Data was limited                
